@@ -10,11 +10,12 @@ A stock market is a public market where you can buy and sell shares for publicly
 * It is a widely used source for people to invest money in companies with high growth potential.
 
 
-Stock Price Prediction problem statement:
+## Stock Price Prediction problem statement:
 
-Stock Price Prediction using machine learning helps you discover the future value of company stock and other financial assets traded on an exchange. The entire idea of predicting stock prices is to gain significant profits.
-Stock market prediction and analysis are some of the most difficult jobs to complete. There are numerous causes for this, including market volatility and a variety of other dependent and independent variables that influence the value of a certain stock in the market. These variables make it extremely difficult for any stock market expert to anticipate the rise and fall of the market with great precision. 
+1. Stock Price Prediction using machine learning helps you discover the future value of company stock and other financial assets traded on an exchange. The entire idea of predicting stock prices is to gain significant profits.
 
- It can also solve using machine learning algorithm and Artificial Intelligence algirithm.
+2. Stock market prediction and analysis are some of the most difficult jobs to complete. There are numerous causes for this, including market volatility and a variety of other dependent and independent variables that influence the value of a certain stock in the market. These variables make it extremely difficult for any stock market expert to anticipate the rise and fall of the market with great precision. 
+
+ 3. It can also solve using machine learning algorithm and Artificial Intelligence algirithm.
  
- Alpha Vintage stock price, and their value is updated every working day of the stock market. It should be noted that the market does not allow trading on Saturdays and Sundays. Therefore, there is a gap between the two dates. It include open,high,low,close,adj close, volue attribute.
+ 4. Alpha Vintage stock price, and their value is updated every working day of the stock market. It should be noted that the market does not allow trading on Saturdays and Sundays. Therefore, there is a gap between the two dates. It include open,high,low,close,adj close, volue attribute.
