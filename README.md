@@ -1,7 +1,20 @@
 # alpha_vantage_rapidapi
 
-Stock Price Prediction using machine learning helps you discover the future value of company stock and other financial assets traded on an exchange. The entire idea of predicting stock prices is to gain significant profits. Predicting how the stock market will perform is a hard task to do.
+## What is the Stock Market?
+A stock market is a public market where you can buy and sell shares for publicly listed companies. The stocks, also known as equities, represent ownership in the company. The stock exchange is the mediator that allows the buying and selling of shares. 
 
-problem statement:
+## Importance of Stock Market
+* Stock markets help companies to raise capital.
+* It helps generate personal wealth.
+* Stock markets serve as an indicator of the state of the economy.
+* It is a widely used source for people to invest money in companies with high growth potential.
 
-The stock market appears in the news every day. You hear about it every time it reaches a new high or a new low. The rate of investment and business opportunities in the Stock market can increase if an efficient algorithm could be devised to predict the short term price of an individual stock.
+
+Stock Price Prediction problem statement:
+
+Stock Price Prediction using machine learning helps you discover the future value of company stock and other financial assets traded on an exchange. The entire idea of predicting stock prices is to gain significant profits.
+Stock market prediction and analysis are some of the most difficult jobs to complete. There are numerous causes for this, including market volatility and a variety of other dependent and independent variables that influence the value of a certain stock in the market. These variables make it extremely difficult for any stock market expert to anticipate the rise and fall of the market with great precision. 
+
+ It can also solve using machine learning algorithm and Artificial Intelligence algirithm.
+ 
+ Alpha Vintage stock price, and their value is updated every working day of the stock market. It should be noted that the market does not allow trading on Saturdays and Sundays. Therefore, there is a gap between the two dates. It include open,high,low,close,adj close, volue attribute.
