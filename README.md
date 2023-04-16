@@ -19,3 +19,11 @@ A stock market is a public market where you can buy and sell shares for publicly
  3. It can also solve using machine learning algorithm and Artificial Intelligence algirithm.
  
  4. Alpha Vintage stock price, and their value is updated every working day of the stock market. It should be noted that the market does not allow trading on Saturdays and Sundays. Therefore, there is a gap between the two dates. It include open,high,low,close,adj close, volue attribute.
+ 
+ 
+ 
+ ## reference:
+ 
+ #### https://www.simplilearn.com/tutorials/machine-learning-tutorial/stock-price-prediction-using-machine-learning
+ 
+ #### https://www.analyticsvidhya.com/blog/2021/10/machine-learning-for-stock-market-prediction-with-step-by-step-implementation/
