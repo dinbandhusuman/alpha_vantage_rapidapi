@@ -28,4 +28,7 @@ A stock market is a public market where you can buy and sell shares for publicly
  
  #### https://www.analyticsvidhya.com/blog/2021/10/machine-learning-for-stock-market-prediction-with-step-by-step-implementation/
  
- ## time_series:   https://medium.com/analytics-vidhya/time-series-prediction-with-machine-learning-getting-started-8763eda1127f
+ ## time_series:   
+ ##### https://medium.com/analytics-vidhya/time-series-prediction-with-machine-learning-getting-started-8763eda1127f
+ 
+ #### https://www.youtube.com/watch?v=2XGSIlgUBDI&ab_channel=KrishNaik
